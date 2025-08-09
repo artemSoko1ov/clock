@@ -1,3 +1,14 @@
-
+.clock {
+  padding: 2em;
+}
+.clock__span {
+  padding: 35px 70px;
+  background-color: black;
+  outline: 10px solid white;
+  border-radius: 999px;
+  font-weight: 500;
+  font-size: 10em;
+  font-family: "DigitalNumbers";
+}
 
 /*# sourceMappingURL=Clock.css.map */
